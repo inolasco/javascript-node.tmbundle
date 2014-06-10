@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>require</string>
 	<key>scope</key>
-	<string>source.js.node</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
 	<string>req</string>
 	<key>uuid</key>
